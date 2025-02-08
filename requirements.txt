@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+opencv-python
+seaborn
+ipykernel
+jupyter
+ultralytics
+scikit-learn
+easyocr
+tensorflow==2.15.0
