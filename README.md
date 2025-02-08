@@ -51,5 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📱 Contact
 For any inquiries, please contact:
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
+- **Name** - Shubham Damai
+-**Email** -[damaishubham14@gmail.com](mailto:damaishubham14@gmail.com)
 
